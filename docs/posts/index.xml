@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on LiamEJD</title>
+        <link>https://liamejd.github.io/liamejd/posts/</link>
+        <description>Recent content in Posts on LiamEJD</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-gb</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Thu, 23 Mar 2023 12:33:35 +0000</lastBuildDate>
+        <atom:link href="https://liamejd.github.io/liamejd/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>ExamplePost</title>
+            <link>https://liamejd.github.io/liamejd/posts/examplepost/</link>
+            <pubDate>Thu, 23 Mar 2023 12:33:35 +0000</pubDate>
+            
+            <guid>https://liamejd.github.io/liamejd/posts/examplepost/</guid>
+            <description></description>
+            <content type="html"><![CDATA[]]></content>
+        </item>
+        
+    </channel>
+</rss>
