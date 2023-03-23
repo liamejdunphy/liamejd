@@ -1,5 +1,5 @@
 # liamejd
-Personal website.
+Personal website - https://liamejdunphy.github.io/liamejd/.
 
 ## Useful Commands
 
